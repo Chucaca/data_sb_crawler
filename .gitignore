@@ -5,3 +5,4 @@ report.html
 .venv/
 venv/
 *.egg-info/
+.claude/
